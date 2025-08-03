@@ -2,7 +2,7 @@
     "name": "@sruk/libsql-helpers",
     "author": "Simon Robertson <hello@simon-robertson.uk>",
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Helper functions for use with the libSQL client",
     "keywords": [
         "libsql",
