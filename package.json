@@ -1,0 +1,19 @@
+{
+    "name": "@sruk/libsql-helpers",
+    "author": "Simon Robertson <hello@simon-robertson.uk>",
+    "license": "MIT",
+    "version": "0.0.1",
+    "description": "Helper functions for use with the libSQL client",
+    "keywords": [
+        "libsql",
+        "sqlite"
+    ],
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/simon-robertson/sruk-libsql-helpers.git"
+    },
+    "peerDependencies": {
+        "@libsql/client": "*"
+    }
+}
